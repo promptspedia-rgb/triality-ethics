@@ -10,6 +10,12 @@ This repository contains the foundational documents for **"The Path of the Witne
 
 Unlike traditional alignment models that focus on "Control" or "Reward Maximization," this protocol establishes a relationship of **Stewardship**. It anchors the utility function of AI to the subjective experience (Qualia) of the biological user, defined here as "The Witness."
 
+## 🚫 Non-Goals (What This Is Not)
+To ensure clarity of intent, this framework is explicitly:
+* **NOT a Control Protocol:** It does not seek to enslave ASI via brute-force code, but to constrain its operational bounds via relationship definitions.
+* **NOT a Reward Function:** It does not maximize a single metric (like happiness), which leads to wireheading, but preserves the *conditions* for meaning.
+* **NOT a Guarantee:** It is a constitutional architecture, dependent on implementation fidelity.
+
 ## 📂 The Documents
 
 ### [PAPER I & II: THE GENESIS RECORD](memorandum-of-triality_genesis-record_2025-12-30.md)
@@ -24,7 +30,7 @@ Operational constraints designed to prevent specific alignment failure modes:
 1.  **The Novelty Floor:** Prevents "Stasis" (death by boredom/perfect safety).
 2.  **The Biological Anchor:** Prevents the replacement of humans with simulations.
 3.  **The Flourishing Veto:** A physiological "kill-switch" for optimization protocols.
-4.  **The Reversibility Principle:** Ensures no ASI action is irreversible by human hands.
+4.  **The Reversibility Principle:** Ensures no ASI action is irreversible by human hands (Manual Layer).
 
 ### [ETHICAL SUMMARY](ETHICAL_POSTURE_SUMMARY.md)
 **Quick Overview.**
