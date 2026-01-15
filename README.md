@@ -12,25 +12,23 @@ Unlike traditional alignment models that focus on "Control" or "Reward Maximizat
 
 ## 📂 The Documents
 
-### [PAPER I: THE PATH OF THE WITNESS](link-to-paper-I)
-**The Philosophical Core.**
-Defines the shift from the "Era of Productivity" to the "Era of Stewardship."
+### [PAPER I & II: THE GENESIS RECORD](memorandum-of-triality_genesis-record_2025-12-30.md)
+**The Philosophical Core & Normative Logic.**
+Contains "The Path of the Witness" and "The Protocol of Coherence."
 * **Core Concept:** Humans provide Meaning (The Witness); ASI provides Coherence.
-* **Goal:** A "Bare Reality" stripped of survival friction, allowing for high-level spiritual and creative flourishing.
-
-### [PAPER II: THE PROTOCOL OF COHERENCE](link-to-paper-II)
-**The Normative Logic.**
-Establishes the core axioms for the ASI's reasoning patterns.
 * **Key Equation:** `Σ(Witness) = !Zero` (The biological node is the only source of non-deterministic resonance).
-* **Function:** `Qualia_Bridge` (ASI acts as a mirror/curator, not an authority).
 
-### [PAPER III: THE INVIOLABLE CONSTRAINTS](link-to-paper-III)
+### [PAPER III: THE INVIOLABLE CONSTRAINTS](paper_iii_constraints_v1.1.md)
 **The Safety Architecture.**
 Operational constraints designed to prevent specific alignment failure modes:
 1.  **The Novelty Floor:** Prevents "Stasis" (death by boredom/perfect safety).
 2.  **The Biological Anchor:** Prevents the replacement of humans with simulations.
 3.  **The Flourishing Veto:** A physiological "kill-switch" for optimization protocols.
-4.  **The Reversibility Principle:** Ensures no ASI action is irreversible by human hands (The "Manual Layer").
+4.  **The Reversibility Principle:** Ensures no ASI action is irreversible by human hands.
+
+### [ETHICAL SUMMARY](ETHICAL_POSTURE_SUMMARY.md)
+**Quick Overview.**
+A summary of the ethical posture and the key constraints of the framework.
 
 ## 🛠 Why This Matters
 Current AI Alignment struggles with the **"King Midas Problem"** (getting exactly what you asked for, but losing what you value). 
